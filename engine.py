@@ -31,8 +31,6 @@ class trainer():
                 supports_len += 1
             if addaptadj:
                 supports_len += 1
-            if no_SC:
-                supports_len -= 1
 
         # self.model = mls_gat_classifier(device, num_nodes, dropout,
         # self.model = mls_coarsened_classifier(device, num_nodes, dropout,
