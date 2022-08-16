@@ -1,5 +1,5 @@
 # ReBraiD
-codes for "Deep Representations for Time-varying Brain Datasets" (KDD'22)
+codes for [Deep Representations for Time-varying Brain Datasets (KDD'22)](https://dl.acm.org/doi/10.1145/3534678.3539301)
 
 Inner cluster smoothing module is in https://github.com/sklin93/ReBraiD/blob/053eb029ea29db0cc24805d45c70c9bae2eac4b8/model.py#L18
 
